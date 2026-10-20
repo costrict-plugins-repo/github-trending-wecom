@@ -1,0 +1,6 @@
+{
+  "name": "wecom",
+  "description": "WeCom (Enterprise WeChat) channel for Claude Code — messaging bridge with built-in access control and pairing.",
+  "version": "0.1.0",
+  "keywords": ["wecom", "wechat", "messaging", "channel", "mcp"]
+}
